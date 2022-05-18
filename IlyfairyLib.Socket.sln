@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlyfairyLib.Socket", "IlyfairyLib.Socket\IlyfairyLib.Socket.csproj", "{FAC327D2-E3E1-414F-BB26-10D72E53FA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC327D2-E3E1-414F-BB26-10D72E53FA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC327D2-E3E1-414F-BB26-10D72E53FA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC327D2-E3E1-414F-BB26-10D72E53FA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC327D2-E3E1-414F-BB26-10D72E53FA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3539F4FF-8A03-48EB-ABDC-974A0A9B2A9E}
+	EndGlobalSection
+EndGlobal
